@@ -14,3 +14,4 @@
 * [MaximumDepthOfBinaryTree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) 树的最大深度, 递归求值
 * [SameTree](https://leetcode.com/problems/same-tree/) 递归判断是否是同一棵数
 * [InvertBinaryTree](https://leetcode.com/problems/invert-binary-tree/) 反转二叉树
+* [SingleNumber](https://leetcode.com/problems/single-number/) 使用STL的map
