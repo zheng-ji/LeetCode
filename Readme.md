@@ -12,3 +12,4 @@
 * [ContainsDuplicateII](https://leetcode.com/problems/contains-duplicate/)
 * [NumberOf1Bits](https://leetcode.com/problems/number-of-1-bits/) 位运算
 * [MaximumDepthOfBinaryTree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) 树的最大深度, 递归求值
+* [SameTree](https://leetcode.com/problems/same-tree/) 递归判断是否是同一棵数
