@@ -10,3 +10,4 @@
 * [IsomorphicStrings](https://leetcode.com/problems/isomorphic-strings/) 同构数,hashmap
 * [ContainDuplicate](https://leetcode.com/problems/contains-duplicate/)
 * [ContainsDuplicateII](https://leetcode.com/problems/contains-duplicate/)
+* [NumberOf1Bits](https://leetcode.com/problems/number-of-1-bits/) 位运算
