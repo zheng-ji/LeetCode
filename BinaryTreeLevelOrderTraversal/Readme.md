@@ -10,9 +10,9 @@ vector<int> level_vector;
 int node_cur = 1, node_next = 0;
 ```
 
-* while 循环直到队列为空, 遇到有子节点，node_next += 1;
+* while 循环直到队列为空, 遇到有子节点，node_next += 1; 插入队列
 
-* 通过node_cur = 0 来更新 vector<vector<int>> res; node_cur = nod_next 表示这一层有多少个节点，然后清空当层的level_vector节点值 'level_vector.clear()'
+* 通过node_cur = 0 来更新 vector<vector<int>> res; node_cur = nod_next 表示这一层有多少个节点，然后清空当层的level_vector节点值
 
 ```c
 while(!q.empty()) {
