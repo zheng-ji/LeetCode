@@ -17,3 +17,4 @@
 * [SingleNumber](https://leetcode.com/problems/single-number/) 使用STL的map
 * [BestTimeToBuyAndSellStock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) DP 局部最优与全局最优
 * [BalanceBinaryTree](https://leetcode.com/problems/balanced-binary-tree/) DFS 求树高
+* [ValidParantheses](https://leetcode.com/problems/valid-parentheses/) 模拟出入栈
