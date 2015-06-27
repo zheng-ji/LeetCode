@@ -22,3 +22,4 @@
 * [MinimumDepthofBinaryTree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) 
 * [ExcelSheetColumnNumber](https://leetcode.com/problems/excel-sheet-column-number/)  
 * [SymmetricTree](https://leetcode.com/problems/symmetric-tree/) 递归方法求解对称树  
+* [SummaryRanges](https://leetcode.com/problems/summary-ranges/) 字符串format
