@@ -24,3 +24,4 @@
 * [SymmetricTree](https://leetcode.com/problems/symmetric-tree/) 递归方法求解对称树  
 * [SummaryRanges](https://leetcode.com/problems/summary-ranges/) 字符串format
 * [RemoveNthNodeFromEndOfList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 删除距离尾部N节点的节点
+* [PathSum](https://leetcode.com/problems/path-sum/) 递归求是否存在和为具体值的路径
