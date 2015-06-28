@@ -26,3 +26,5 @@
 * [RemoveNthNodeFromEndOfList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) 删除距离尾部N节点的节点
 * [PathSum](https://leetcode.com/problems/path-sum/) 递归求是否存在和为具体值的路径
 * [PalindromeNumber](https://leetcode.com/problems/palindrome-number/) 回文数
+* [ExcelSheetColumnTitle](https://leetcode.com/problems/excel-sheet-column-title/)
+* [ClimbingStairs](https://leetcode.com/problems/climbing-stairs/) 跑楼梯，DP+优化
