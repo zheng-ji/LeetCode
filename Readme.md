@@ -29,3 +29,5 @@
 * [ExcelSheetColumnTitle](https://leetcode.com/problems/excel-sheet-column-title/)
 * [ClimbingStairs](https://leetcode.com/problems/climbing-stairs/) 跑楼梯，DP+优化
 * [MergeTwoSortedLists](https://leetcode.com/problems/merge-two-sorted-lists/) 合并单链表
+* [PowerOfTwo](https://leetcode.com/problems/power-of-two/) 计算是否2的n次幂, 位运算
+* [Majority Element II](https://leetcode.com/submissions/detail/33505677/) 找出最多的元素
