@@ -32,3 +32,7 @@
 * [PowerOfTwo](https://leetcode.com/problems/power-of-two/) 计算是否2的n次幂, 位运算
 * [Majority Element II](https://leetcode.com/submissions/detail/33505677/) 找出最多的元素
 * [Delete Node in a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/) 删除给定节点
+* [CombinationSum](https://leetcode.com/problems/combination-sum/) DFS 
+* [CombinationSumII](https://leetcode.com/problems/combination-sum-ii/) BFS 
+* [Combination](https://oj.leetcode.com/problems/combinations/) DFS 
+* [Subset](https://leetcode.com/problems/subsets/) DFS 
