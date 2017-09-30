@@ -36,3 +36,4 @@
 * [CombinationSumII](https://leetcode.com/problems/combination-sum-ii/) BFS 
 * [Combination](https://oj.leetcode.com/problems/combinations/) DFS 
 * [Subset](https://leetcode.com/problems/subsets/) DFS 
+* [Kth Smallest Element](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)  
